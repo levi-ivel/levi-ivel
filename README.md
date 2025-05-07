@@ -2,10 +2,13 @@
 
 I'm 18 years old, and I'm currently:
 
-- A Software Development student @ Firda 🎓
-- An intern @ Dairy Campus (Wageningen University & Research) 🐄
+- A Software Development student @ [Firda](https://www.firda.nl/) 🎓
+- An intern @ [Dairy Campus](https://www.wur.nl/en/location/dairy-campus-1.htm) (Wageningen University & Research) 🐄
 - A Big fan of Python, C# and TypeScript 💻
 
 <br>
+
+[My Book List](https://github.com/levi-ivel/levi-ivel/blob/main/Booklist.md)
+
 
 ![levi-ivel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=levi-ivel&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
