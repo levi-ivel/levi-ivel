@@ -12,7 +12,7 @@ Roberto Vitillo - Understanding Distributed Systems  <br>
 Martin Kleppmann - Designing Data-Intensive Application  <br>
 Neal Ford - Software Architecture: The Hard Parts <br>
 Nate Silver - The Signal and the Noise  <br>
-Robert Martin - Clean Code <br>
+James Clear - Atomic Habits <br>
 Ivan Savov - No bullshit guide to math and physics <br>
 Ivan Savov - No bullshit guide to linear algebra <br>
 Christof Paar - Understanding Cryptography <br>
