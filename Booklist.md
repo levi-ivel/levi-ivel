@@ -1,9 +1,10 @@
 # List of books I'm currently reading:
-Walter Isaacson - The Innovators 
+Chip Heath - Made to Stick <br>
  <br>
   <br>
  
 # List of books I've finished:
+Walter Isaacson - The Innovators 
  <br>
  
 # List of backlog books:
@@ -21,7 +22,6 @@ Kenneth Rosen - Discrete Mathematics and Its Applications  <br>
 David Thomas - The Pragmatic Programmer  <br>
 Charles Petzold - Code: The Hidden Language of Computer Hardware and Software  <br>
 Edward Damer - Attacking Faulty Reasoning: A Practical Guide to Fallacy-Free Arguments  <br>
-Chip Heath - Made to Stick <br>
 Lee LeFever - The Art of Explanation  <br>
 Nate Silver - The Signal and the Noise  <br>
 Daniel Kahneman - Thinking, Fast and Slow  <br>
