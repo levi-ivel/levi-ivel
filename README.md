@@ -3,7 +3,7 @@
 I'm 18 years old, and I'm currently:
 
 - A Software Development student @ [Firda](https://www.firda.nl/) 🎓
-- An intern @ [Dairy Campus](https://www.wur.nl/en/location/dairy-campus-1.htm) (Wageningen University & Research) 🐄
+- Co-Founder @ [piixl](https://piixl.io/)
 - A Big fan of Python, C# and TypeScript 💻
 
 <br>
