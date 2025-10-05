@@ -2,8 +2,6 @@
 Chip Heath - Made to Stick <br>
 Martin Kleppmann - Designing Data-Intensive Application  <br>
 Gertjan Laan - Aan de slag met Java en JavaFX <br>
- <br>
-  <br>
  
 # List of books I've finished:
 Walter Isaacson - The Innovators 
