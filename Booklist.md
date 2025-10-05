@@ -1,5 +1,7 @@
 # List of books I'm currently reading:
 Chip Heath - Made to Stick <br>
+Martin Kleppmann - Designing Data-Intensive Application  <br>
+Gertjan Laan - Aan de slag met Java en JavaFX <br>
  <br>
   <br>
  
@@ -10,7 +12,6 @@ Walter Isaacson - The Innovators
 # List of backlog books:
 Aditya Bhargava - Grokking Algorithms <br>
 Roberto Vitillo - Understanding Distributed Systems  <br>
-Martin Kleppmann - Designing Data-Intensive Application  <br>
 Neal Ford - Software Architecture: The Hard Parts  <br>
 Ivan Savov - No bullshit guide to math and physics  <br>
 Ivan Savov - No bullshit guide to linear algebra  <br>
