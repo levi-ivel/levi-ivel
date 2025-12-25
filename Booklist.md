@@ -2,6 +2,11 @@
 1. Nate Silver - The Signal and the Noise <br>
 2. Adyashanti - Emptiness Dancing <br>
 3. Ros Atkins - The Art of Explanation <br>
+4. Daniel Kahneman - Thinking, Fast and Slow <br>
+5. ​Robert Nystrom - Crafting Interpreters <br>
+6. ​Charles Petzold - Code: The Hidden Language of Computer Hardware and Software <br>
+7. ​Chip Heath - Made to Stick <br>
+8. ​Robert Cialdini - Influence <br>
 
 # List of books I've finished:
 Walter Isaacson - The Innovators <br>
@@ -34,5 +39,9 @@ John Mackie - Ethics: Inventing Right and Wrong <br>
 Yukio Mishima - Sun and Steel <br>
 Susan Sontag - Illness as Metaphor <br>
 
-## Psychology & Psychoanalysis
+## Psychology
 Carl Jung - Man and His Symbols
+
+## Fiction
+Amal El-Mohtar - This is How You Lose the Time War
+Oscar Wilde - The Picture of Dorian Gray
