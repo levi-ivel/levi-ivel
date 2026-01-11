@@ -7,9 +7,9 @@ Also known as /g/11xm9ymckz
 
 [My Book List](https://github.com/levi-ivel/levi-ivel/blob/main/Booklist.md)
 
-Currently Reading: Nate Silver - The Signal and the Noise <br>
-<img width="247" height="540" alt="The Signal and the Noise book cover" src="https://github.com/user-attachments/assets/c43896fd-8844-4db7-8b08-310523070775" />
+Currently Reading: Adyashanti - Emptiness Dancing <br>
 
 
+<img width="247" height="540" alt="Emptiness Dancing book cover" src="https://github.com/user-attachments/assets/13a9ca0c-aab2-480a-a83a-86f3ada07ec6" />
 
 
