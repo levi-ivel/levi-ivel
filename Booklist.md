@@ -1,17 +1,17 @@
 # Book Queue:
-1. Nate Silver - The Signal and the Noise <br>
-2. Adyashanti - Emptiness Dancing <br>
-3. Ros Atkins - The Art of Explanation <br>
-4. Daniel Kahneman - Thinking, Fast and Slow <br>
-5. ​Robert Nystrom - Crafting Interpreters <br>
-6. ​Charles Petzold - Code: The Hidden Language of Computer Hardware and Software <br>
-7. ​Chip Heath - Made to Stick <br>
-8. ​Robert Cialdini - Influence <br>
+1. Adyashanti - Emptiness Dancing <br>
+2. Ros Atkins - The Art of Explanation <br>
+3. Daniel Kahneman - Thinking, Fast and Slow <br>
+4. ​Robert Nystrom - Crafting Interpreters <br>
+5. ​Charles Petzold - Code: The Hidden Language of Computer Hardware and Software <br>
+6. ​Chip Heath - Made to Stick <br>
+7. ​Robert Cialdini - Influence <br>
 
 # List of books I've finished:
 Walter Isaacson - The Innovators <br>
 Gertjan Laan - Aan de slag met Java en JavaFX <br>
 Douglas Adams - The Hitchhiker's Guide to the Universe <br>
+Nate Silver - The Signal and the Noise <br>
 
 # List of backlog books:
 ## Computer Science & Software Engineering
