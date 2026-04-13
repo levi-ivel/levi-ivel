@@ -7,8 +7,8 @@ Also known as /g/11xm9ymckz
 
 [My Book List](https://github.com/levi-ivel/levi-ivel/blob/main/Booklist.md)
 
-Currently Reading: Daniel Kahneman - Thinking, Fast and Slow <br>
+Currently Reading: Ros Atkins - The Art of Explanation <br>
 
-<img width="247" height="540" alt="Thinking, Fast and Slow book cover" src="https://github.com/user-attachments/assets/0e466b0b-0062-42a3-8f11-f9e1c6bb43e5" />
+<img width="247" height="540" alt="The Art of Explanation book cover" src="https://github.com/user-attachments/assets/9be2c72c-2422-494f-b802-c2de11db4b2d" />
 
 
