@@ -3,7 +3,7 @@
 Backend & System Design guy
 <br><br>
 
-Currently Reading: Ros Atkins - The Art of Explanation <br>
+Currently Reading: Rory Burke - Project Management <br>
 
 [My Book List](https://github.com/levi-ivel/levi-ivel/blob/main/Booklist.md)
 
