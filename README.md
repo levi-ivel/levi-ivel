@@ -1,9 +1,5 @@
 # Levi Kingma
 
-Backend & System Design guy
-<br><br>
-
-Currently Reading: Rory Burke - Project Management <br>
-
+Developer at [Wageningen University & Research](https://www.wur.nl/en) 
 
 
